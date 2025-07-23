@@ -1,0 +1,4 @@
+= Explainable AI
+
+A repository to keep a book on Explainable AI written in Asciidoc, deployed as
+Github pages via Actions.
