@@ -1,3 +1,0 @@
-= Introduction to ANNs
-
-Return to xref:main#main[initial document]
